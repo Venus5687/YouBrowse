@@ -1,0 +1,66 @@
+C:\Users\Kleme\AppData\Local\Temporary Projects\YouBrowse\bin\Debug\YouBrowse.exe.config
+C:\Users\Kleme\AppData\Local\Temporary Projects\YouBrowse\bin\Debug\YouBrowse.exe
+C:\Users\Kleme\AppData\Local\Temporary Projects\YouBrowse\bin\Debug\YouBrowse.pdb
+C:\Users\Kleme\AppData\Local\Temporary Projects\YouBrowse\bin\Debug\YouBrowse.xml
+C:\Users\Kleme\AppData\Local\Temporary Projects\YouBrowse\bin\Debug\Interop.WMPLib.dll
+C:\Users\Kleme\AppData\Local\Temporary Projects\YouBrowse\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Kleme\AppData\Local\Temporary Projects\YouBrowse\obj\Debug\Interop.WMPLib.dll
+C:\Users\Kleme\AppData\Local\Temporary Projects\YouBrowse\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Kleme\AppData\Local\Temporary Projects\YouBrowse\obj\Debug\YouBrowse.vbproj.ResolveComReference.cache
+C:\Users\Kleme\AppData\Local\Temporary Projects\YouBrowse\obj\Debug\YouBrowse.Form1.resources
+C:\Users\Kleme\AppData\Local\Temporary Projects\YouBrowse\obj\Debug\YouBrowse.Resources.resources
+C:\Users\Kleme\AppData\Local\Temporary Projects\YouBrowse\obj\Debug\YouBrowse.vbproj.GenerateResource.Cache
+C:\Users\Kleme\AppData\Local\Temporary Projects\YouBrowse\obj\Debug\YouBrowse.exe
+C:\Users\Kleme\AppData\Local\Temporary Projects\YouBrowse\obj\Debug\YouBrowse.xml
+C:\Users\Kleme\AppData\Local\Temporary Projects\YouBrowse\obj\Debug\YouBrowse.pdb
+\\mac\home\Documents\Visual Studio 2012\Projects\YouBrowse\YouBrowse\bin\Debug\YouBrowse.exe.config
+\\mac\home\Documents\Visual Studio 2012\Projects\YouBrowse\YouBrowse\bin\Debug\YouBrowse.exe
+\\mac\home\Documents\Visual Studio 2012\Projects\YouBrowse\YouBrowse\bin\Debug\YouBrowse.pdb
+\\mac\home\Documents\Visual Studio 2012\Projects\YouBrowse\YouBrowse\bin\Debug\YouBrowse.xml
+\\mac\home\Documents\Visual Studio 2012\Projects\YouBrowse\YouBrowse\bin\Debug\Interop.WMPLib.dll
+\\mac\home\Documents\Visual Studio 2012\Projects\YouBrowse\YouBrowse\bin\Debug\AxInterop.WMPLib.dll
+\\mac\home\Documents\Visual Studio 2012\Projects\YouBrowse\YouBrowse\obj\Debug\Interop.WMPLib.dll
+\\mac\home\Documents\Visual Studio 2012\Projects\YouBrowse\YouBrowse\obj\Debug\AxInterop.WMPLib.dll
+\\mac\home\Documents\Visual Studio 2012\Projects\YouBrowse\YouBrowse\obj\Debug\YouBrowse.vbproj.ResolveComReference.cache
+\\mac\home\Documents\Visual Studio 2012\Projects\YouBrowse\YouBrowse\obj\Debug\YouBrowse.Form1.resources
+\\mac\home\Documents\Visual Studio 2012\Projects\YouBrowse\YouBrowse\obj\Debug\YouBrowse.Resources.resources
+\\mac\home\Documents\Visual Studio 2012\Projects\YouBrowse\YouBrowse\obj\Debug\YouBrowse.vbproj.GenerateResource.Cache
+\\mac\home\Documents\Visual Studio 2012\Projects\YouBrowse\YouBrowse\obj\Debug\YouBrowse.exe
+\\mac\home\Documents\Visual Studio 2012\Projects\YouBrowse\YouBrowse\obj\Debug\YouBrowse.xml
+\\mac\home\Documents\Visual Studio 2012\Projects\YouBrowse\YouBrowse\obj\Debug\YouBrowse.pdb
+\\mac\home\Documents\Visual Studio 2012\Projects\YouBrowse\YouBrowse\bin\Debug\Interop.ShockwaveFlashObjects.dll
+\\mac\home\Documents\Visual Studio 2012\Projects\YouBrowse\YouBrowse\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+\\mac\home\Documents\Visual Studio 2012\Projects\YouBrowse\YouBrowse\obj\Debug\Interop.ShockwaveFlashObjects.dll
+\\mac\home\Documents\Visual Studio 2012\Projects\YouBrowse\YouBrowse\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Portatile 2\Downloads\YouBrowse\YouBrowse\bin\Debug\YouBrowse.exe.config
+C:\Users\Portatile 2\Downloads\YouBrowse\YouBrowse\obj\Debug\Interop.WMPLib.dll
+C:\Users\Portatile 2\Downloads\YouBrowse\YouBrowse\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Portatile 2\Downloads\YouBrowse\YouBrowse\obj\Debug\YouBrowse.vbproj.ResolveComReference.cache
+C:\Users\Portatile 2\Downloads\YouBrowse\YouBrowse\obj\Debug\YouBrowse.exe
+C:\Users\Portatile 2\Downloads\YouBrowse\YouBrowse\obj\Debug\YouBrowse.xml
+C:\Users\Portatile 2\Downloads\YouBrowse\YouBrowse\obj\Debug\YouBrowse.pdb
+C:\Users\Portatile 2\Downloads\YouBrowse\YouBrowse\obj\Debug\YouBrowse.Form1.resources
+C:\Users\Portatile 2\Downloads\YouBrowse\YouBrowse\obj\Debug\YouBrowse.Resources.resources
+C:\Users\Portatile 2\Downloads\YouBrowse\YouBrowse\obj\Debug\YouBrowse.vbproj.GenerateResource.Cache
+C:\Users\Portatile 2\Downloads\YouBrowse\YouBrowse\bin\Debug\YouBrowse.exe
+C:\Users\Portatile 2\Downloads\YouBrowse\YouBrowse\bin\Debug\YouBrowse.pdb
+C:\Users\Portatile 2\Downloads\YouBrowse\YouBrowse\bin\Debug\YouBrowse.xml
+C:\Users\Portatile 2\Downloads\YouBrowse\YouBrowse\bin\Debug\Interop.WMPLib.dll
+C:\Users\Portatile 2\Downloads\YouBrowse\YouBrowse\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Portatile 2\Downloads\YouBrowse\YouBrowse\bin\Debug\Interop.QTOControlLib.dll
+C:\Users\Portatile 2\Downloads\YouBrowse\YouBrowse\bin\Debug\AxInterop.QTOControlLib.dll
+C:\Users\Portatile 2\Downloads\YouBrowse\YouBrowse\obj\Debug\Interop.QTOControlLib.dll
+C:\Users\Portatile 2\Downloads\YouBrowse\YouBrowse\obj\Debug\Interop.QTOLibrary.dll
+C:\Users\Portatile 2\Downloads\YouBrowse\YouBrowse\obj\Debug\AxInterop.QTOControlLib.dll
+C:\Users\Portatile 2\Downloads\YouBrowse\YouBrowse\bin\Debug\Interop.AXVLC.dll
+C:\Users\Portatile 2\Downloads\YouBrowse\YouBrowse\bin\Debug\AxInterop.AXVLC.dll
+C:\Users\Portatile 2\Downloads\YouBrowse\YouBrowse\obj\Debug\Interop.AXVLC.dll
+C:\Users\Portatile 2\Downloads\YouBrowse\YouBrowse\obj\Debug\AxInterop.AXVLC.dll
+C:\Users\Portatile 2\Downloads\YouBrowse\YouBrowse\bin\Debug\Interop.QTActiveXPluginCtrlLib.dll
+C:\Users\Portatile 2\Downloads\YouBrowse\YouBrowse\bin\Debug\AxInterop.QTActiveXPluginCtrlLib.dll
+C:\Users\Portatile 2\Downloads\YouBrowse\YouBrowse\obj\Debug\Interop.QTActiveXPluginCtrlLib.dll
+C:\Users\Portatile 2\Downloads\YouBrowse\YouBrowse\obj\Debug\AxInterop.QTActiveXPluginCtrlLib.dll
+C:\Users\Portatile 2\Downloads\YouBrowse\YouBrowse\bin\Debug\YouBrowse.exe.manifest
+C:\Users\Portatile 2\Downloads\YouBrowse\YouBrowse\bin\Debug\YouBrowse.application
+C:\Users\Portatile 2\Downloads\YouBrowse\YouBrowse\obj\Debug\YouBrowse.exe.manifest
+C:\Users\Portatile 2\Downloads\YouBrowse\YouBrowse\obj\Debug\YouBrowse.application
